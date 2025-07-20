@@ -53,7 +53,7 @@ A full-stack application that allows users to add medicines, generate QR codes f
    mvn spring-boot:run
    ```
 
-###M Frontend (React)
+### Frontend (React)
 1. Go to `medicine_app/medicine-frontend`
 2. Install dependencies:
    ```bash
@@ -67,7 +67,7 @@ A full-stack application that allows users to add medicines, generate QR codes f
 
 ---
 
-## 🔍 How It Works
+## How It Works
 
 1. **Add Medicine** from the backend or via POST request.
 2. **MedicineList Component** displays all medicines.
@@ -78,7 +78,7 @@ A full-stack application that allows users to add medicines, generate QR codes f
 
 ---
 
-## 💬 API Endpoints
+## API Endpoints
 
 | Method | Endpoint               | Description               |
 |--------|------------------------|---------------------------|
